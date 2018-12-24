@@ -2,9 +2,9 @@
 
 USB type c is the most recent USB standard, known also as 'Thunderbolt 3' for Apple products.
 
-## Multipurpose USB C Hub
+## Portable USB C Hub
 
-![ USB-C to USB 3.0, HDMI and Ethernet]( ./assets/hot-5-in-1-USB-Type-C-Hub-Hdmi-4K-USB-C-Hub-to-Gigabit-Ethernet.jpg )
+![ USB-C to USB 3.0, HDMI and Ethernet]( ./assets/5-in-1-usb-c-cable.png )
 
 This hub converts USB C (Thunderbolt 3) ports to:
 
