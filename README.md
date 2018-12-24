@@ -29,3 +29,19 @@ This hub converts USB C (Thunderbolt 3) ports to:
 - Ethernet, Gigabit LAN port (internet cable)
 
 [Buy Now]( https://www.aliexpress.com/item/hot-5-in-1-USB-Type-C-Hub-Hdmi-4K-USB-C-Hub-to-Gigabit-Ethernet/32954358411.html )
+
+---
+
+## Extreme 8 in 1 adapter
+
+![ USB-C to USB 3.0, HDMI and Ethernet]( ./assets/8-in-1-usb-c-thunderbolt-hub.png )
+
+This adapter converts the USB C port to:
+
+- USB 3.0 (regular 'flat' usb)
+- HDMI (for displays)
+- SD card
+- Micro SD card
+- Ethernet, Gigabit LAN port (internet cable)
+
+[Buy Now]( https://www.aliexpress.com/item/Ugreen-All-in-1-USB-C-HUB-with-Type-C-PD-Power-4K-Video-HDMI-SD/32821301992.html )
