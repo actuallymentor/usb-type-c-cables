@@ -45,3 +45,13 @@ This adapter converts the USB C port to:
 - Ethernet, Gigabit LAN port (internet cable)
 
 [Buy Now]( https://www.aliexpress.com/item/Ugreen-All-in-1-USB-C-HUB-with-Type-C-PD-Power-4K-Video-HDMI-SD/32821301992.html )
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-32960470-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-32960470-6');
+</script>
