@@ -8,11 +8,19 @@
 	    min-width: 50%;
 	    width: 300px;
 	}
-	ul {
-		li {
-			padding: 0;
-    		margin-left: 2rem;
-		}
+	ul li {
+		padding: 0;
+		margin-left: 2rem;
+		display: inline;
+	}
+	h2 {
+		display: inline-block;
+    	width: 100%;
+    	margin-top: 1rem;
+	}
+	footer {
+		display: inline-block;
+    	width: 100%;
 	}
 </style>
 
