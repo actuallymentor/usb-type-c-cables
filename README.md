@@ -2,7 +2,7 @@
 	img {
 		float: left;
 	    min-width: 50%;
-	    max-width: 300px;
+	    max-width: 300px !important;
 	}
 </style>
 
