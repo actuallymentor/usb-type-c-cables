@@ -1,4 +1,10 @@
-# USB Type C cables
+<style type="text/css">
+	img {
+		max-width: 80%;
+		padding: 1rem;
+		text-align: center;
+	}
+</style>
 
 USB type c is the most recent USB standard, known also as 'Thunderbolt 3' for Apple products.
 
