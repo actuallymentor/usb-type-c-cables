@@ -1,8 +1,18 @@
 <style type="text/css">
+	img, p, ul {
+		display: inline;
+		min-width: 300px;
+	}
 	img {
 		float: left;
 	    min-width: 50%;
 	    width: 300px;
+	}
+	ul {
+		li {
+			padding: 0;
+    		margin-left: 2rem;
+		}
 	}
 </style>
 
