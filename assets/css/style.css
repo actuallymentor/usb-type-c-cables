@@ -1,9 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-img {
-	float: left;
-    min-width: 50%;
-    max-width: 300px;
-}

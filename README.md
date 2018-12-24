@@ -1,8 +1,8 @@
 <style type="text/css">
 	img {
-		max-width: 80%;
-		padding: 1rem;
-		text-align: center;
+		float: left;
+	    min-width: 50%;
+	    max-width: 300px;
 	}
 </style>
 
